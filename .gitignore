@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets content
+
+/MyProject/Content/Assets
+/MyProject/Content/Megascans
+/MyProject/Content/MSPresets
+#/MyProject/Saved
